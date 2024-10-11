@@ -1,6 +1,5 @@
-
-~~~
 Aleo Vaccination Verification Project
+~~~
 Table of Contents
 Project Overview
 Use Case
@@ -13,10 +12,16 @@ Contributing
 Contact
 Project Overview
 This project implements a Zero-Knowledge Proof (ZKP) system using the Aleo SDK to verify vaccination records. The primary goal is to allow users to prove their vaccination status without revealing sensitive personal information, enhancing privacy and security in health data sharing.
+~~~
+
+~~~
 
 Use Case
 Scenario
 In today’s world, especially after the COVID-19 pandemic, the need for secure and private verification of vaccination statuses has become increasingly important. Organizations, such as employers, schools, and healthcare providers, often require proof of vaccination before granting access to services or events. However, sharing sensitive health information raises concerns regarding privacy and data security.
+~~~
+
+~~~
 
 Objectives
 Privacy Preservation: Allow users to verify their vaccination status without disclosing any personal information (e.g., name, date of birth).
@@ -31,6 +36,10 @@ Node.js: A JavaScript runtime used for building the backend of the application.
 JavaScript: The programming language used for developing the logic of the verification process.
 Installation
 To set up this project on your local machine, follow these steps:
+
+~~~
+
+~~~
 
 Clone the Repository:
 
