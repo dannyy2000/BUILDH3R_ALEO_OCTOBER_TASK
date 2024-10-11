@@ -43,10 +43,6 @@ To set up this project on your local machine, follow these steps:
 
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/aleo-vaccination-verification.git
-cd aleo-vaccination-verification
 Install Dependencies: Make sure you have Node.js installed. Then, install the required packages:
 
 bash
