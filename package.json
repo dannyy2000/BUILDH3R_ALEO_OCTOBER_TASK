@@ -1,0 +1,16 @@
+{
+  "name": "daniel_aleo_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@provablehq/sdk": "^0.7.0",
+    "aleo-sdk": "^0.3.2-beta.4"
+  },
+  "description": ""
+}
